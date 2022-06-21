@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN primary_phone_number BIGINT NOT NULL default 0;
